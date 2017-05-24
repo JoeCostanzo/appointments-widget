@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/version/joeco/appointments.svg)](https://microbadger.com/images/joeco/appointments "Get your own version badge on microbadger.com")
+
 ## Appointments App
 
 Demo app for displaying a list of appointments & allowing users to submit new ones.
